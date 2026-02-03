@@ -6,4 +6,4 @@
 	url = https://github.com/pqov/pqov.git
 [submodule "chipshouter_profiler"]
 	path = chipshouter_profiler
-	url = git@gitlab.cs.hs-rm.de:dhahn001/chipshouter-profiler.git
+	url = https://github.com/UOV-EMFI-Fault-Attack/CS-Profiler
