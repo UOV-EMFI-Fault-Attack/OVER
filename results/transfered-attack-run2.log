@@ -1,0 +1,224 @@
+# Timestamps:
+- (executed without -b and -f)
+- Script Start:                                    13:52:41 UTC
+- 10 Oil candidates generated (51 executions):     13:54:11 UTC
+- Script End (100 executions, 14 oil candidates):  13:54:58 UTC
+
+Connecting to device 1: /dev/ttyUSB2
+Connecting to device 2: /dev/ttyUSB0
+Connecting to device 3: /dev/ttyUSB1
+arming........armed
+nonfault-run
+offset: 358984440 ; execution 0/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 1/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 2/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 3/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 4/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 5/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 6/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 7/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 8/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 9/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 10/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 11/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 12/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 13/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 14/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 15/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 16/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[1]: 0f34267eaf735f36cb80df81f41b4923fbdd494292f419935f07af5bbe3d8c754d96f104e0020b1da3937b4ce2b7a823e13b3003bbb2fa583fde6ddfdd3c0babb132d86bd1b9407a90f465448d5bfffda51fcaf32fc79015a3488ff4e4aeb65ff3afbac231d2806b8094993b700f80e5
+    INCORRECT
+nonfault-run
+offset: 358984440 ; execution 18/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 19/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 20/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 21/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 22/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 23/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 24/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 25/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 26/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 27/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 28/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 29/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[2]: 30afa33e650644c9d74219defcbddebb8a85464040fda0fe1f8ee9abf68a84e23a8be62de7460b4d22a5fd57f81ffffbe0772a4b4488400cbf52fcd65ad9ce8746c97d618fe247b0fa31c8d85da0ba4cae1355b11b8c0432cb79d2bdb05cff1f83f655e48206b6280ea0369b68e01ffd
+    CORRECT
+nonfault-run
+offset: 358984440 ; execution 31/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 32/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[3]: 9287d52715d82b60a665239bd39838b6394853169ddbbc3bb499799ce6bf617ebe3b832775afa00685419b58824769c4e8d0958d4acd595f73f8ae278a1af1d9f04c7c5ad6679cd1a274601a652856f53986769e33e3af1ef705b2a8eaa278f2b8cc8215fe3640d729458750aed55c1d
+    CORRECT
+nonfault-run
+offset: 358984440 ; execution 34/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 35/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 36/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[4]: b8452917e5e907185be210773ac1069490a3c74e572258ed73f0595a88e9252ad6e248227a295c2f8084806634675a262d2d1ccb83987c16a2de95870eb5cabe2ead03010a1a95fa52835259453acc96668cfbdb500d576a1b540abd5fa36fa835d2d772a3626c76235a888346b03f5c
+    CORRECT
+nonfault-run
+offset: 358984440 ; execution 38/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[5]: 2f038c9c073b2f2dcb9c1e450cd0157298949c1e91394662f8a24547707d6ddfc53148ff3d322ddf9d93932f00d1a28c454d652cfef8b7bb7a98d65124b5f5e32163503f7b047b8f825bcff7c6844078c8ba0a0c69307718c3eec9793034e1adb4804683f9caea0ae564dd98ebc71589
+    CORRECT
+nonfault-run
+offset: 358984440 ; execution 40/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 41/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 42/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 43/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[6]: 019ae23015cf9be376006ffa2bd543f6dbd050fae370898d7238e478290661fb2248af3eeea4ad3731729d26dcfacec337f74c83c484caf4a2dc44865fee11990e11e223c8956f5c13980d68224ec53644f76dfc324b5a5e3ab9b015c693a9ba83e3d093326554f6329656553fa86da3
+    INCORRECT
+nonfault-run
+offset: 358984440 ; execution 45/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[7]: 333d932739d3fab07239ae911a18cf6661f426af8b5cff9a7f5eb6ef27e1f63e6399603da9e8ad98220def74f3015272e3d5ce2f360f0eb95e912d1acb27b7c30862800c8e5682feb0cc4eedb7c99f79cc33cd520229890799d75384cb1cb68aa38b9016b3f13980f4204bbc42a0e8b5
+    CORRECT
+nonfault-run
+offset: 358984440 ; execution 47/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[8]: 610368431e398cbbd234fc5a28744a55ad7ba56c10b83b8492abe77d063bdf9fb6377edd37186a5eb81af9a67aa35f5e333f2223e85f798b92ee2001892260e7e98134f4cfafa7cbff7df7307e138b5a9c2d0c233cd67b5e37398aeb7f06ebf43a91500f8bd34f592697650b3eea3f3d
+    CORRECT
+nonfault-run
+offset: 358984440 ; execution 49/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[9]: 86f5fed8d5fe1a982b7c46f9eb400b50ea0f7e7d76b3e1ade9dfad9b69b1321439c2f60b7db5d9e94069187a1f973e241fa761f45bc23328efe7754b855b59534b498e92124f2d674ed6b2244c872ee0e0d14adc38d97d440172e2581fe6b75fa40e26d92bb963eab7b43c8df2135585
+    CORRECT
+nonfault-run
+offset: 358984440 ; execution 51/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[10]: 4356769485ca9cf09b8cc3af7a4cb62019ac8a1bceed473965011f96d2e5122641072afccf37418edebbe6f045e8ee99980cd13b0ed1b2d224f39a70f7630e61b4898461a15250874d1d2dcc50c14e0f4fcf344df7a65848b79cfd390db0e126850ad32356429509f536297ca53e715d
+    INCORRECT
+nonfault-run
+offset: 358984440 ; execution 53/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 54/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[11]: be67199bc9e22e4d643f28debaa822aca9cf1b7c86991d97bf0cdb0d2051e788e77d8569c63514cebe58bc3fa7a38b3d85c2ad6f495edbadb9bf6f069cc62f057ce2788309bd5dec027012d362ab19477bfb16ffd3406e17565c408632afd915c0773f784819b73af3696e295f7829e9
+    CORRECT
+nonfault-run
+offset: 358984440 ; execution 56/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 57/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 58/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 59/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 60/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 61/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[12]: 2ee25c3a87864f47ea49861806cca58ffae2a11284c6944762e0bc73fb34d514cde686aae2dc1d6521c2ff120df6bf6ca2d9213dc5344a8d761d1c0d26f848ea4dde93084114bcb9ab6f1ea219a5c209f84c87cbe659b31eee9aa2b63f6f0592162e7c991e57480c36b2fd1faef638e2
+    INCORRECT
+nonfault-run
+offset: 358984440 ; execution 63/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 64/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 65/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 66/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 67/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 68/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 69/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 70/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 71/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 72/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 73/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 74/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 75/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 76/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 77/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 78/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 79/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 80/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 81/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 82/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 83/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 84/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[13]: aa844e5bb5e6dd885c1c0de78758caab9cf5895a87d33169b3746b78c492e61f646960a96cb80b36704625b7e6d447652a1aa3eb6d0430e843fbd608f781746365a4449704c0e477b5c2399f0571f9722a08c11f75b7a4a4c54dea1b852d07536accd1219d2ab8eefb2fc62335abb463
+    CORRECT
+nonfault-run
+offset: 358984440 ; execution 86/100: No fault (correct signature)
+fault-run
+OIL CANDIDATE[14]: 26020fbf08e9f8c8b53ffd17f79e707ef414f92b2f967471b0a365d0e6d280b2d880c23ec4bb2db94d391d6bc0b4db9e15f4294829f35b07fc3ad81c017c92ce824aa4ec9031f1b356d08e136a796e5ff39dc1b0d96061b664d0cd7fc02ba1909f2660887f63322ce3e895f93a23ddd8
+    CORRECT
+nonfault-run
+offset: 358984440 ; execution 88/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 89/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 90/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 91/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 92/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 93/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 94/100: Target unresponsive
+nonfault-run
+offset: 358984440 ; execution 95/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 96/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 97/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 98/100: No fault (correct signature)
+fault-run
+offset: 358984440 ; execution 99/100: No fault (correct signature)

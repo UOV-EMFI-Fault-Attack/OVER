@@ -1,0 +1,745 @@
+Connecting to device 1: /dev/ttyUSB2
+Connecting to device 2: /dev/ttyUSB0
+Connecting to device 3: /dev/ttyUSB1
+arming........armed
+nonfault-run
+offset: 358984420 ; execution 0/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 1/300: Target unresponsive
+nonfault-run
+offset: 358984420 ; execution 2/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[1]: ee0d8a33706fca5e16d3d8ada973c1900f1f5817a6b17824474bd2462e4ed644dc03c8ad9eefe04f7d87557a486a4d5bc87143d21723b0b7978de9f13068bd7d21f7aa6ed49e7287f56877489706826f7fb2c3f450941f5aa9b3c18a5ea1673f9009e10ed96620f8904e606f07b8577b
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 4/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 5/300: Target unresponsive
+nonfault-run
+offset: 358984420 ; execution 6/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[2]: 39f1fe39138b3de214da20a207f67888b793a6fdb50bdb1efbe6adb5bac1692b83798d29651660cab44ed6724fff09e51d5e91eb86a13688b928a4a57c290761441b95b92c179eb581916b99a0f68f667380562da41e727c208a68e93bd4abb4dd809095c9d547b032050b9b29eec556
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 8/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[3]: a1f0a257dbed33b89e8e6f2849042a03add31732930bdd19930f9eaef08489b4dfd8126485817f70668e6d04bb2a63e3c9bd4b00dc5264b4492ec8bd1fc2cf3333451996431873e4636125c75d56ccff44c504cfcc803565a1f9a6bae0c915573c9141c79608a247595a2c4b5ac1d337
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 10/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 11/300: Target unresponsive
+nonfault-run
+offset: 358984420 ; execution 12/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[4]: 68943a58252c33f41458b4437e193e1cceef93dfc860fea6a84c9576d27d7b99462dd9125ff751de281a22ccce21e188009b85b70fa8f1e2fd33a81df4ab1e39d7ffe0ed3357616cf1fad138fa1a48bbddfdaeeef968b05ac4446eff9d0e42aff9006eb9dcc8f7dae7d42f1e4539a1b9
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 14/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 15/300: Target unresponsive
+nonfault-run
+offset: 358984420 ; execution 16/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[5]: ec5268368b89e71c6854fbf988c9abeedcdcf7f5c25565fcc8f9e7ece6c366c537aa0bfd78106452f3f4c5f0797af96aea0358e31e01bc1b5e52c38e5d62b1bc8b9d6c7efdf148b636499a8a5902a83402a0fe695ba67af5c6c49e3cde1c3850de057c263c92746279d6129f42f345e0
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 18/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[6]: 6c5de346710f87cbc6eea49c78be09bea48986447bdbd51e8afcd77e1432c9eddf502a4a2c2e61a452acc57879ffb562c08a3482d134eafc854e24ebd791cf829c5b3475ea50057ef93d3fa9ceaa72db3a2ff9222824883630da964f472ab1f6601330eb7c4f19899fa82c1014c18b38
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 20/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[7]: 097bedf4be1dbaca8189602dd34bb3e365d9188e0bcff4051e1e178ccd79065512814e3021df6320a9d28f1dddcdbe943bd26a8c8379bb21e92f1bb6f7216ff35024ed3ea9f815ece4314a2876a75147d184e1b772ff833d98a08e14e21d9f466d09d47693a4150b7b000c58cda31b36
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 22/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[8]: fe1f47f63d011ed55942d045efd4ad84a65dbebfc00a277a1cb77ff69b70cc68b6fc0eab90de694712a61c2845034f944ef2f799b241ab09327fe449b095fa29cce62a694086e3ca49eccccfb6eaadf7a69e02e04d0a5459445b27352213b86b5b19e87f22276930d3cfb5331db6f74f
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 24/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[9]: ce01f2991d18c51469e2d89a38586199d2a8e6796fa0397c5e825aca4190225924340455b0a5b7154c3c553f8b0e5d698dbca2aa89f7bd578befa45dcfea637a5594697e86b9f99e76660dd43e58d6a4cf3279d3612a40c5fbaa1d3925daf912ad70b8f0f6bb1f92403d37e3e5998052
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 26/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 27/300: Target unresponsive
+nonfault-run
+offset: 358984420 ; execution 28/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 29/300: Target unresponsive
+nonfault-run
+offset: 358984420 ; execution 30/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[10]: 5c9ad7cc756c86a7cd69b3c1961231e0161c648674f7d8bb7c82da0bb483a6093d625f4d2240e5190ea151a785a44da791f6233e170c979998253367f8ed831171778ecfd9ff87cc35d11430dc466426a82b43e3d4198841c02420b65746a122cffa697e9cfa42ba0247942aab719f1a
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 32/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[11]: 28cbde2b593071f56d8bfa824dcf09e278cb8e03b3e368991ab43107bb50c6e7333a3b7d4dff4cdc4a6e62ad41d3aacd1c8c5d9137133b5a655afd11ef55f773ddb96d12f2da7583ab18892d350c0378e45832e6ed05d2a7c252134013fbdc0e893df52af12cf8938a818536d3d3c93f
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 34/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[12]: 736795cbf23a9a2598b6015360768004f4fbf5aa4100f5a739c2ec3f5bdaadb3cc55e285f9d03cda7963729a0cad05830e1d12605617d9f19a9ab902559f2ac427591cc3cc58bc0839015a83ebabbb393b15b3b1e04e319f207001ec8cba989ad7fe8c19935bb55e5b5c3da8db231270
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 36/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[13]: 50bb7ffd69804f3ba5716172851b40189bf2f5e9ed68dc4beed80abfa58a1577921697d0bf4c6511ab49faf168bad25be1a617f796f677ca6a8ead80592c4a910278c22d8442d07f5cee1f6e064dd4aef48ac9f83f41a1a1878036cd4ef783177f74b2a41c753ce8896c54687763208f
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 38/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[14]: de2568387fa22dc3bcc806bcc18073fc7009404bb3fa49255435bf70064e081f3476bac27209773d182372f9965486222bdc11a1b44cde4e8ac030351ccea7a281f5a3c9782c077ed88a76c0da97354816466a87c447095d7b27064aaad5e9c43cbc4cd4847d9c9883e0ed32355b5755
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 40/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[15]: c4c26097158805a9857bf9eda2bb1c58df0c78d090418c29d0cd40a7c492a87874c88d7d08c80dd0dab9df3db0898722792d9af88a752934c14e060370cc43158e2bcd8995fb5446c63a41e35916ed764a054b5da0171fa96959bdc276b081dc3656fee8c6ba3c72fa5c2142fa5fe9e8
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 42/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[16]: 48f88162a0382d4c7207d949a0e0c6aadc8ad87cecaea0946653b255ca0c5880e820b0f9ba511895f87dc7dfc95b28f01f169c8ddfa5b05c35387422e8c747e4f771f7a5cfaa5a2ee15f2aae8b3b64e7ed785d99fa79a9eb9cd5fed6af31c911e844fc916bfb8bc10469f74ce39fe94b
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 44/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[17]: 34aa1f379b2301a7d8636d252427a215c00ea8dd679ca10f22395e6fafa531f4949b83d0c21e3a875ec16b3dbc10ee308c5fa257c1477c5a58b9e5b0ed74412040171de92f02ec53372afdbf0ccfb829704b49b9b1ecff0a91321b0d82713b26ae69bf08775d67fea644d23b14f866e3
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 46/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[18]: 56365b6b494ecca70ae0abb7bee21cd8b45eeba0380820f50f6f31a69df9f645d0270111e314fa0e44d99da3bef62df303a454b43c99b23e4e5d6f50151981b66d27a7fd4cd61b891b5a7803e5ee3ba4daee95170addc0420bb79513bb004965de010fe3d0508dab786bf8b075494507
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 48/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[19]: ba1116ec95d185ad9756b1aa2663a7eed307e6075d21bfdee4bd0d6edd4dd56a5689d7741de111db1e50edfb33fa6902db79bab0f495dda2b69bc7909fc50d5cc72fb53df217a0b2b2e294f75141184e19753c732788f9e3c271877cda00bb1433d250ed45b4814a22e88dc9c3a79c52
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 50/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[20]: 0ce0a8bba23d19327b8cade514fc1eef7e4234bab68220d81b9bef33d951499411fcd106a8eddebb0dd397868c07645d200b4c0733b804b1e9762f0610738bc9895106a75e165ef86c1d5b62b4ca422133dcd546c0c63659b956bd92a57907bd0d4bc65f15f190e65a51a8d975c55fe4
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 52/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[21]: efbdb0f817f16e218385d364f8b65e687e1857b87ad6cd20bdbefe51b8da1d77792fb060f6b913194b76018371faee269c239c41e7e2cb72f36ec66909bfb7b2c8751a3f2022c15e34d7cfee9c2ae4cf10c69eb731a58fb316221cb885e68ad9a6c2b54f618835dbd0e3ac0840a232e6
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 54/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[22]: 613c3ec30091f8fb782c88731a3ae2a6c6ec3d39ea14735aef54b1a872ce80c7c0dfca4068664e23b343af90aa424a6979c6a42838d2783256ff0e56e208790683016d71ce8afd6fb5fb52e635b8d04ce037ae7ae493e1e33caa607341571941d661537639d4255bb059e4cdad7316c2
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 56/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[23]: 0483b79322812eff974595578aeffdea9251431a090724cea9f9b64bf8b3864ac48508f0b18fcd31d9b90032259a935d5e704db6b1a8695891320867a7da62d48a39e1cda8633da63f964044e221463be1fc1685a50a91e17125a8b384edc635f4b6178cc4618963b85be952eb35513f
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 58/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[24]: 1014c89ef0b809ad56c1fd15f3d326499d1c18c2e484aa732e80d419aef0cb53da0776d3c82508863a626284dcb4f2064642e25f96c713734345444c562520deec4fe6e2cd5b07d7a0bc79a9f1722240ae398d27e29e8d4c9e4aa859a1d83c549bb6966ad91dd50266a551b32f9198a0
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 60/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[25]: 249cf15a27eb694291302a3e39130f159366c58e256b3485eea2884df62560eaed098ebe3281bfac20d327ea6a46b4423ab4c8b604bb96e81d6a74e7c0ea86a619d15f99d9d3ff7fa0b26bdc2d501f1a3260e408b7a4496b06350df825d28b0e9b565a0b6ed35c05ed6cdb568c2cdeb4
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 62/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[26]: fe3b7d2919c0f3b826be246252f9b892eed03247aff4ea111c474ab1ce99ccc7624f30071feada1bde3990b1f25631ada6db09c49ac7b4831d2a667aaec9ba960a60867a3efa5dc3a823b6bb7d409f48cadd67b04721826503a867b7a5cae65587ec870d5e589d36667366157948e46f
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 64/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[27]: f506c36c1335611de6e534d8c8a8f33babc50210cb832686c55d4a29cc35df155ae37b50ecaac6f0e610411ed7c447020e99de7d3b1270f724f2205da11e582ec0b2df2d71e46e47d38bc75432186f98ba0955a24db5e7818b1522f5ef6bc68a309b0e21f61b8716e33f3f871f2956fa
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 66/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[28]: 4c99f151828b71908e1994adba0569175145a424ed02717eb5cc9084040c10b39a99947d522327a1309323be44dbf10c101f1fd17ec87f6aeadc0da94099df3cb131803831c8e05c85c9262dea67013576739100318a35ea49d0e59c8ccc336a7b80a1bb6cdd74dc953d148c508f8a6d
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 68/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[29]: 9af04ac665825af4deda00821549a76a9cf5668e126e19dc53692ad69ee3d7e1fb1cbbbbc7a73a2dada99c521883d0e767a3954caaba72fc915625746beca5d137774382d0d52cde43efb7c964cb43832642cf36489908fc01d7f7cb6ca5b604ba275c12d1d9f66597c10460f85cc4de
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 70/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[30]: cafd065451590c10a26ce58a5667c106ad94dbb209464ca998b88f24e5954f3e3271923d8702e75ecaf4d1478ccab3669af9d31ec3cf26fcf88e5f23f80638e24e595b04bc5b6dd86a002a5771687c8653f19aad27cbee3d739ece0b78dd42f9fce777bbf1cb6630bf73665a5193f78a
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 72/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[31]: 9d84b364f2eeb844e1baf5d3ff5ce58c1ca04a4835840885e2f06c7d7097904c9e751ec9a98054923187e3af93f66b8ceaa487361d46af05852eb04e7bb029f2ec1a7b655b84a76f603e20ebbcefc8f6362ea5e38519c5551f7dd0e9f23ed35d2c061939ad2b9ce88a0c9545c936da8a
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 74/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[32]: f29486c3224db2af315bd934b713a20762834df2d930b883e261b115058499dc3edd4c655219b2b90c309193a657c3f256247d93785f2ea2ac09ffea9911f3a9b62ebdb107e5ff0d024a41c78d867369e10e0b49cad00ef2aeb5b3557834ac239d6694718f3fdc542a9bdc42d062ae63
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 76/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[33]: b49df9cdead5aa31c02004f92c14efd859c6accbeb333f0d1939257b3ccd08ab125ba18b365ad542fa61a46028b44026153798b57c8adb5982110f2577cabab18c01f9c2324642755b3d84b1f0641927680999ce92eb7d2528b52308c0b787dafbc836465a00bfc15d679cbb6cf35d44
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 78/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[34]: 344f5d611fab3a5d109597b9bb5ca1bd92a0cf2af98e31cf55d1a023166266554e79bea458443f77a452556cd09cee9dd780998e2d54c4b408e966fd5779807ac4f98f34d980512f6b1825880f5f3514a944957b6c43d4b1deb699be23653d2c325ba4dc817bbbf9245a7d18b2cd27c4
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 80/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[35]: 7ee4affe37e25343089e43e29aaed8f0d4a6f4f8582c49e6e3557cc585eeb2d1dd4f48931bb67c25f7ff4bd6529219a06520dfbecd1a5f713b86791764183af855093c8e24a1ef8c0eb53be816d2dd913d9e6cf1a2559c72d91d611813b89a7450e00bbf6465c47da039516dfc22dfd4
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 82/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[36]: d43d5d56d9c7d635f22fb772ade1f5eae967d2b3327d9e5d1ce72af18a4dd97d032f88bb2a0a07ec89141b31c98f869d0eb4cb233b05715f7dbb660648c801812166e1bd379c419a8d3e3a23f34ccc6a246547d3ce8f3e22821b6611d3257eedd6a948b610d6e38a70754ac585a4fd2e
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 84/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[37]: c8a89c38700062a25eb6b640794a131e7bd76314d427daaaf026f3cfcf70cdb012db608506d29e9eaa2ffdd02fffc57cc26a7f3405b14c0cd675eb5f663a4fcfff2c5bdd4f8ca590beb87155402557d6a105ea0a14525cac03ab4d9b381de8affb7fd7b3366b4f345f412fd2bd8f5e0a
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 86/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[38]: d32058759ebadfe1931f8209dc9a13883e1397847a0b5a45bbe16a3748022f0e9a43e31ef9d4f0ef67bfc3110fd67993da737667d3021abefc7e2706da5726d3efda3e15537c07187c7534059d62bff060173dc585cd35e623f39a20b0b9f64599c98f005f093ce2d11cfbdf9737d60b
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 88/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[39]: 3214022524ae7a75a0043b6250ddfdbd6f9be2fa732b181583ecb67c242d39d8c204798c85408891504c4c16f836508d6207540ebcb89df6b80e86b5a913688c23cd2edb4b2b42307eada86573b8befbe7bcfae8549a01dd7a3236cf5bfecc15b0750d254a0a482817ed62b366943b8a
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 90/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[40]: 14a62f9bfeeeff6377ae8a7612c5e0ba6c06026e6b848524179caae7886b9f84016efd6f381d69fe995634d39fd886e35b879f28e23948b6726f97acb781b859c53412459d9a5c8b15e95dbe93527b025b29b20dfa0dd88488893b17e7d6071699cbf491e4f12a639b883b26af898d94
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 92/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[41]: bbc27dc54cff46465a6a79fbe2b8dfcbe56a4bb2b91ea92ecc6cf676a01ecb46fe290c2e6aad188869a521b92dd8bc186948c213d3cabe516f5e0af0615e957095133cf6aa32e440c44a1432f336d37d4bf82fc4f2b1913e8c8f57d248f7b5cf0c975f4824f59b2c2298b4b4751de7ca
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 94/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[42]: 4d2ba85599f81f69a738f7e9823d7ba64fd3e1566742135adc6020c60dc0d3dca913850284640a860513b0d50f6150dc237f77398ff03335e4452633bdd9beeba42e4dc64a302efd66eecf5d52070cede8555d5b03d9d3fd9b9dc9f5609ba7026c65a15387a4e5f859da2c1c61796ec9
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 96/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[43]: 779779d5be6befbf53947681cb5098b0cb1f08823c2d55f94dae0fa5d9ce7d0e48cc9cba9ea6e827cd1e56f111adf207c48da55a92f15431bef1f20c57f01ebcc5bb1587f595151cc9996850eb94e2221e69be52706bd0a1c2742a855bf9e40f1887badb3b6efe4283ecc8acc5a6bca8
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 98/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[44]: 1767733459a0c93bcc1351eba1dcf83f396912fe1f624fcafb8b5182d6ddd918853cd776e8d1b7f825c0967cfa35af615c3f25d1dead052da3c1d428010920bfc965d5698cb02a54c17566fba9db7edd1ce2739461c2397ca8956b6b86b66678fca3936d0ab8c61cf6ee87cb64213b74
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 100/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[45]: e364865b765cd54a2b6a8b1793ef04a68fc5ba0bf423df9cff0aaa89bf3b55236e8f16e92cfa7383848b157e7007f706f4f9f0c3b706bd4a56ff93fc357b32d29a31579f79cde2e6d9daf477f8534c76237dd02ab04863947d8ee172ecf21b8f3125ab4b044835ad1de04f2ef855cd14
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 102/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[46]: 75f0693715267bdd1224937b9d6de5d3adfc33d571d76837b5640811bba878a80512224ffdd10076225646ce2047cdc580105d3631575ea85be6d0bff5ac1ea7c3cd3d254aa37fe06f6abe3f9bbf0f02afd32fb4ed7325718f94a585fb227423a1561196de3d31ed127b9efa1edb7d20
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 104/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[47]: b12606cfaae9690b58186e7938c1b6bce5eadb4f4505e96fa53e1b51005e20a447c6ae559f4161f466f32abe298323183ff265e6fbb33d51260ff75c273a3c4ed8ad4a46050488693020134748f261c2d39b675623bde6184e5624ba986845a70d143aecbcad3fcad86f9ead90d4e9c4
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 106/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[48]: 99ba209591df965647c004471cc5f0747f71b938b38fab3e736999008e9c20ae4593780b4546c2b315a6f2012d5209ba8b39932c207c886dff335dd24b36ea0cbe42bbc3bbd9ba39cd7d4bb9c42990ea7bc21ab5f831c098ec46fa32bc322d86e2fbe87b99d844bc6540b0d05a650b06
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 108/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[49]: df694a41c35279b36bf631929f0646be8abb8de6ff90b2bf25deab4e37a21e37bb2084094fb214e17aee3a87a54cb718911d98215552d405879579151c73a442046051db1da08c038a0e6e732daa540f3f106dfc2eef279b98994a07984a8100aa59f0123a14b94574ba098b3dc190fd
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 110/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[50]: 2efa477ea7f47ce66c9ee0acc90210847cc09b8ae249a777700484b34bf10fa4cfc2092eb823b7cb0bc908a50166eb72e2a67397f275cdee6e0d0712d6688b66df684d932bcf4916a3b21c26572d2083f05a9ad030bd70f68df120c0e2f8d323b775e54cdc56589b145b4f75371e3c0d
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 112/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[51]: bf43378179fd5ce4bbbc3a617489743c40b6b5550452a2446875d5b165a7efe9a34de914c2c3fef862a8c04b9b6d334dbf66b05b9a46b0332389bec82ec130fef80fb70fd0566db85614ca94616f1ddda813ecd2a538434ebc0dd08067e27e86badd390d927ad4918329640e54e8e0f7
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 114/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[52]: 6046aedee77f080c839127194ea4c6f3afd49ef3b18d32300ae056b5a98b9a3f10b96f2c01b42b57087fdaf1b91056a0435d00e787aeef021861141ce9187c45717f805ca123c2ed42570b512aaa53ccde1eb8490a8d03b8db397c622254e05fa872c749cc6777e2050ffa417028fbc7
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 116/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 117/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[53]: 8ed71ff9e1fb70b88557be501943321bd6b57b131d1e05c3a7dee652d1f4585c2be69c83384fa9c864eccedd3f7fc58cd5f4e9799a5b400b15b0dcc780bb61e4b547b0a0b9913de5bee5afbda8a6505846ce3144f46e925fb9d1ee8666bfe649a393f994ee35dd37faaa21ac5f645aca
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 119/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[54]: 7819a025142e85388f3d6506e5dafc4ab03963304dea51cbdf3d599461f94b3bb86959fd9432d9cba0d8ac050b7b9d613d1f945ecb4c2d72eaa8e95949b58bee1a073fb542ddbae912f12bed8abdb4555470bcfe7a47dafb33307b8b3c1140d478fbcbbb707edc377f4193cc30f7ccb8
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 121/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[55]: f6412a2af2847113041abdec34cc558a2bbfcca4f6cd7393dd70e83ae2ae1ae0edb94a04294f9a2fc5f15c314a6c7399ce42062b05ca9101f779bd6f2e138b9770b08649b6f92512cbdb41cf9972107e07076f968747f549b802090b06fca7d4e81344604ef22f38622f4a40d9ce1fff
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 123/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[56]: 6bb7e6ceb27bc33041108cc626d82b4fa42f4863284f93f0f4ca59c7e56f3a405177219b5868977661d8e16379934edacb2f1a9a4c1cdbf611b2c2f6c163bdcc69a12bb8d103233034a5a4f3b950c40c4e29d2ceaf021e65e4eb638c7beb81133a4c0329d0c30df947771fdb08cc666c
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 125/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[57]: ebe82cb376752d46bf51e8f87645d16cea7f6aebd6491eeaeccf3af0bad73cbdc32a85817209eefe5860b07feb1562fe7765ae7ffc0a9024692784d982074d3f4569d772658a82ed26ddd694f33371df5adcd12d7d537564d3666603a3c03448cb6828916d9670bc1435534c3cc58027
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 127/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[58]: fcdabb341b01f8ba2f9372f3c13fd382294f6e86426a2bc6879cbcb5d4e162100dba980bf8c8b4fdf0e6ea6f4f4bc8ba0bbf85e7e306726c59f40a506566c3564091a6150e275fe604c086ffe84f7d55adec70c830cffb478ad7fb55e52733faaa6ff08d5871873750e942de5386ffe3
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 129/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[59]: e30c92e08c4229732155d4ce741954c6f49142ae38173e03972473a16d0a7264453fe2a91d027ccadf5cde698a1dcba9ca22311b8476d898511acf512ab20224e214f4b235aa227f84f418031e4f817042b04d20165da2a69bd5b7ad9844bbf6282e9b9eaa9026205e2085e02fe30805
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 131/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[60]: 30bc191f7387954f469aa267b9cfc8430d64619714e70f060856b1b697055b51b39ad5125c48490ea0796cbb1e28f7c3cc518e1ffe7fb2ea902f3b32d6214561cfcffcbbf5bc76c3887a354aa921eeb2202dc3f8f8f08466903b0c82dcb986bb4458cfce1e7c182780d93d7ed46efb52
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 133/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[61]: 845a7246288b821a55cf251d9e573892cfc8affd5af121f346b67c9d5cd26d97567aad58ab86c609a2ded926463600ae22284c04b764847bb9570b0a96b8a9aa41c2c1922b0c99d884039c116f80be800e0b2645c0e00d7754bbc49fee672d620d0ce6a63bf03867abeaf23bda78c5dc
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 135/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[62]: 4cc6da756e314a9c293443f403a5ca6f756de29abbce1d17ac2b2e3e6ab591fd13b1a4dc72dd6d4c6c278284ea3566a4cfcb0ec29be0a2985dfafd1f3907c649c941277f640944d731383f70dbd0550d842ff4a10c9428b3ef71120c7dd1c9d25605a5636ddf2f5311c52d234797ec1b
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 137/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[63]: 3070fd0994d7e913dec093c776cdeaf73c904fbaa38d0cee929156c4daf13063769f98638b639f4f8d57e5e13d09c0520aa4bb5957e7392d738ae77022fda1ea8ae0b14664aaae621c6ee0ab6dc1947aa802d16225e9fa83bbc3a41277df57b6011be34d1d53fe327690195f6b55227e
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 139/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[64]: b512bbf6616aae9c53b7899dbd06512ec02bdf0ed6360ce7822ed2fbced58b13dc785237fc65e5495a103a9886685ee52d95b8cc66eff46612379954684289d93dfb7ade8e5cbba3c00078caf011c29125f1796eeeb645d63d4e447e8e607afc0e728d970b39ad1f8f905c9baff179c8
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 141/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[65]: 905eb88cfbe8e253e6b2ea5710f825c6615f8b5a49fc8179d16e17e251917f9ac61ca1440c73e9b1cd731990fa51a443ec12e9f0d397d075552cfb324a705834e0419fc33eda7c91aa30f614a288c21c77be8ae7f851fea6d0bd0f31cf3da852cc28fdf1e58e169c262017a751c8023b
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 143/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[66]: 0339aefd45f130b4286932dbe2647bbd8e56b8fdd13137e281e7fd1a203b4f52a4f5aeff9e7fed6ee70a8c2e1382c0efbbff158e29e82e3f06cd3db6dc12c5c88bafc87dcd58f880ad53aa3a97db08e93835ff0c5f0322305e2ad79995c31f8e500705030f2024c1311f9432cb678095
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 145/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[67]: 6c0551843d06d39ab7efdd39cb15419f5c28e645ad1b110da2b09ad70b528036c762571d860a91d8a091b4a0a31632063bdc49547dc6def985f2eed113fc8c8772fc2f7329b23143f6a9de15a876f029f57094f228697bff0f983b1d13bc6b5453dd90ed3297028d68645bb1f3846bc8
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 147/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[68]: eb94dd0eb9ef670d3daa381d63f0167d46f380682d1baae47cc981d6078756a73306a450c7d23448fcc20f766bd54e366bb2cf2285d6501be77a9eb43c353394d9ddeda7260eec86dec3348a6b075738f329d2156c28a5d523fb85fd279dd6694ca2a9b38ad209ad880d0f850fa889bf
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 149/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[69]: 9cca47d76651d54cfc40c795e4257399f73c10d3dd67ced771ed345f3db7b99240a7cbebdfa772de13d2293f8776d003e7473ecfac09b6d5dbce8fa6d54c04d43aa89670041d2720106d719687d104e361e10d84a7e9766f4ddb62dce66f672e04d03318995d8165b2f46abc3d2e012b
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 151/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[70]: d427477a61a30f5a134b50a772d408630be12ad40e88fcd6b914b4c4cdcba1dce10e26db99da51e843c5ece9a537c3ed53188d79a58611dbf922b7018f29c0a926940268702fec9cd53ef3f9c4271b883c87c2c2aeb358574c110fb801f3e90c194ea12225fa7892318437d3794998ee
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 153/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[71]: b239b39ef4c1247e8b9baab588a6bebece5414d814c5872473c801c0058c72f1e70e95fc596f12510d21b31a955402840e1cb29689097d24c872dfbee4d4f835d54f6cc6dc7d2ed6d1684dfe379c73b6ec32c43221605e349d37831d54c70bd2f2101352f610cde0c0aa757be135a223
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 155/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[72]: 1415c215034b23c93cc8935a642216dc23bac70af19eb8d3ab8ed6c5d464d73fef1863fc158558bc18e54df5e5265eb654b03a319cffad4d28b6694850e5f6ca1c5278fe4359a3b5475feccfadff67d060ea2abbd58705eeb17d36efa4c0f7c0f0d10ebf20022cfe01294cb752c157e1
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 157/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[73]: 10f446768cca4ae60662cedd1a50666fb6f284b30a3285da2cdb79c6ce9db997f9a9e0a74a0f668f9d02c1e82b1fc8d645db80f5d5815b0153a330383760889343a36e2e488bf341c71508d78e3e983ecc1b45ef8029e090a219a29a4286b8d19e0e461adc2efd9f71ba3406964e5938
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 159/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[74]: 2dd756b12c0ef5ffd22d0ee0dc241e5598b51a2e98bc7519711aef1df5011bf3ab0a7ba95c0c304b96a8f1df4df174f2ca602279f228654292a22ab25b5c9e9c9602036f5a51c2bb7d21ece286e1beaba43a0aba1c28ca4a0808fec60eb1c2ef9e92f1d06410f67056e399b5b451d2ef
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 161/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[75]: ab69c3f2e33d6a7d2591f881dfd5476a0b9c043ea9dbf720a5cdfbc36565993a57b90b3faf794f37cf8314a76171954192cc04ea3307c206254c1b7f5ad49c98c1922b00ce9158c58a3adf36dc9a9b59180de9ac8339450dbeb50ecd7f17bbb88df88fd51d9033948f781d83acf8662a
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 163/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[76]: 8bb4a78580d368eb7cd722546569106b50a36a670d9ceb64b72a68fa7f78f9a103fd2e975d75a79ee6119e24869b7712e7a9f765b53394ef7a79e5d7eb7d177faebc623d730d07e6a76b162e205fc372eb0a33f840eb2fdea79c110b3480e39021540f91a04c2bdc281cb27a0e4fcefa
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 165/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[77]: e6cb919ae040c2584005178733632b2e3ca2642d2104d349c94f4ef2c38f037e3a0a0fa2c65fd6f6f7f658173d2564bfc23900c56d58f2dd6263cbebc5996333e061ec8a6b7f796fd11234f4a9918db87238998ace86fff8c1ac83cc1c41b68749c5b5b1d0f89c8b5518097de8877a9f
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 167/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[78]: 830a685e153d412f3a256ed8b0cf195c96b7887a49c0f5f33a93a9331404199d2f756254039651eec94bd03a388fb6015dcac536781885996ad457ec1a64d4a371e23ea9dee4382e161145091ea054ec1650f2d98aacf8893c0c976c48ec9b7fcfda9df69a54c4b52fb21fc8aa4f366d
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 169/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[79]: bec71cfcd7c426b2b78ba6228ae07b55e70a262de7c746814f8ebcfaf98c2993d567f2ccbbff8d2b4c7c58a3115f9034a6080c80e11ebdd879a4b4803ec66f83f4b14ba2913f36bcebceb630239ca8a0fe81e69f29a4013d4684592d6779c475857e0c1b7adade1ecb7a72c20fed1016
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 171/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[80]: ffa06cf9e8d8bb1437a94a32f97f87d7241f5332fa36c4c8117c9cd3e8d166119915bb28933fccee6d5a5528661e1a41cb5c39c0313260aae5f2f688a9d4ae53ae32c7ea36df8e4b001bbb3500fed36dde411204941d975efbe1124ec8b5485427bae3ca0e493640a4d2d00dce48d2ab
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 173/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[81]: 91051310cad3ac7ac2d8294061fdec7b5d634b0820086cc265045b20f4e49a252827cee0c983c439c7f8b2415195d0a757f0d4174131bbd6bc0c2776916e6cbeea784f64e54d01a5e9e26c9eb72c38d6ff1171509108eff686d68a732e5a7c65a16e2dd16ae4f7cc6eb54326d1e45f72
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 175/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 176/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 177/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 178/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[82]: 6e5a224505045f2eceee3aef613ae3c25206e4c7e1f0d8d1912978dd52e67ea30d2f82376d007477e61fb05085efd4cea626abd80948e749200eba4edb19b8123fe3a48e874d13c4a69a45a0f226f47a2355c27d36188ad0f03fd8b282e71b1bf34a92e0abd007867e1da36b4ef5c1d9
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 180/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[83]: 394701af393537ba42191088d272d0d94d44760af80c56412db956a62c4cf67d56022fa8e16aede1e52d05b48b870e71a151344dbb07009658f0ac017103c3029bb712f526c3b0730a340e1b61a8da36b0c948a74e5327ce85af29edcaaf98f034bdb4812960fdb7422e7a7b60a80671
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 182/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[84]: 053cbf0f3cb3fef3585e36d154434d22c3ea999402f7daddd0b61e4ce4b54e43d2c6c9d184599dd0bbc0aac699e3dbfaf7646926f82f74c53bf22fe39d3105e899934a20ff62d921be67dee707f4f774c03b47365caa4705323416dc5ca82e4a767dc0c8dd297cba605ccd5e05dc7c21
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 184/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[85]: a1317db1d3e31c2d81007a1818bd9081f5225816a07bb02a2c191ffb50bda062eea4bdcf9ae07401176d57e10a8f4352886f0a1db0f9edb4b0756045dc9e871ed162680658be4d7efc07108eb352daa783ba46475d9e0f0eda02ca11e9ebea02390c09a90b8d23325c05cb668a6b8ef6
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 186/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[86]: e02d8344ad3c6cdb04073736dc49facbd63a672f7600a85404ad7aefac62cb80dd0044cf5cadc2d32bc07d4a56fa3e7ada5b47ec787de17b63ea77b37b1cb44243384dfe0a9dd73a4f4e38fab082f5a4b71ccf019e29e6dd9ed7ab75b96bd24b0358bc7e02a3ad582f9f21781cdf738c
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 188/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[87]: 926d8926fd7239358c8837f5389912211dfeb50fcf44f22a254811227ca08ee21ce4a51cb535db5c9e232d772ad79e159caeb02f50e4433ef53996a4466150611c367556d782abda1c6507d19080c52a41f2dc10dd522635ea70fe8d8780dfd54f627e52374e8994a232ee3131e272a7
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 190/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[88]: 1893da2d1318424bf44b11da1c52c8f1f22c22ea8329f8b6db3e6649ac94334d74a7fb254fc8172c3ce9834e4b1c93e6557e02ea658f8beeb3cbb4eb15124082c9d5d14124b768025c25002475771e0793a04ce7dbecef2e7067610cfa96f6a9f430b519537752476348e37445ae9d28
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 192/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[89]: 0f8482b6ba0687b7b18341d74692c9d12087f1bb3f4a72d27cf237bb4d043e9d94db062a51ad6c1ae75be26b5a39fa98ba3774c48fbe31c1bd6e8da381da6576dd5f2440e67e8070516a018b8de763a814f2eb6e0b0058136e8565d3f5ecd9c552745239aafde254ff2075216da647f6
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 194/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[90]: 45aff43c93093b56689f5c29de68166b515ae5abe3137c5ee155f6f59aa8d354435428c749b08b5ba3891d55fb06e01bd74d883ae440bc541f3bbaa4f82e300c4a6d2efc8655c429ca37c2e8411835b475957f2e4db0c8e519febbdd3dd6c2e89b3bc1b6131e5d54fa81680e359ca37f
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 196/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[91]: 4a6bb27dffabebcfdb232f23ca5fb32b2432554dd95f9d78bbbf67d5cf4899158f70b726d7cc7cf955275fa4021bd3d408ed84307c1f090f43f81c14e9c728bde28ac5add276813cbe67c43237273542edf65726b275d2d545aec6d91305190c89f2a425b4ff60ffdf617dbc75908222
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 198/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[92]: 3cc9698925df54d8261854a406805697f175c5475244176e7bb1250b7145876a3be806264db108159ca4194d46d97f9ffe74611efb2526d7dc9783055c7f115868fca999b5eb5c2ddac319f56e65e3d293a5cd0d00338be8f0d307be57190d41f5c4b76b42f1a6d79885b396282f3b04
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 200/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[93]: 342d7e11c529b010597b547782215da782f1f3f108e7bc9d9d401add9e20c82a9e06ba83eebd0074a1c2f14cf6d70194638f2ce449c389a616a425a64bcbf48a49343069131617e54906ada6c2544e9cf16a81a6c6baba46dbdda4d0a0fa565235ad4cd020b31ce69f552a22bbaa85c9
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 202/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[94]: 387bdebcf722af6739a4e18c10d8141d98058c47010045599f7e80410d25febf678c1dd878424e657ed89a4475749336a6df88fd72d1ac7ff3bfc4539ccbfda709ca6e101f559df59d45e0c1e5e4df5c3eae8a42551679d67ae2664bc2aad3801c325032b83cc9914579935d31f236f9
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 204/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[95]: 35ef64aa375fd321d1b935483370061b91309ab3baef45ab4fb6b515411a7ad5993555919dabff57f2694ebeeee36f2d5aa892806ac8f51ee11aa6420cb2e17741b1ce54eed93348dbfcaabf178478309c464b97d458306e1bccb1a70499d60409ca24232a640f9446923d0319aaad09
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 206/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[96]: 6cf23d398f3de26aa113e43991a51d67856418a3bc66dcd28006b665c363ad03cd6f56201c13086d58324c44bfed1a4c68585e126df25838363b8c7b74c46e9e0b7c97dbe5a82074a0c04bd16acabeca4cc65d745d95de4852294d96b3c71c70d20ae581bcd1968c2d9c400a2bf29836
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 208/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[97]: 11a9bf9985cd7329fc81b34172eeedafc8779b54c65e9c400fc8ab0e600582b9d292e35c653316ae8eec716037a4be5ca80b12054dd7d8eb094fe0948291b1264ce31daf10666c8534b271d56177cb53cdfb12ab98da8f2f1d330d3dce3252ce1945fe17752328dde823a3b3ae72fc65
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 210/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[98]: f8b09e55c737cf7f553cef8c58be62d0515c4394e5e161edae856db41154920b638752dfd407f7003f61b91f42276a9f2c9c71dff757ecfb3829bbb5993e11a71a061e9317b5a0048ceb82e0d9787b66c8b60d7d4cd934c488b86380dae44de3fedec616be6fb103987eadffae1437e5
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 212/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[99]: 4ee67cb4dab422f137f68251de50a055ac73d27068c416902c78758dd4ae6010432831292c5c66a95f3dcf61ba23999034a17aad1be05a02697013baa53d3808ba8cca11b738a4f34a0dc000a232067bb9005bed9b64caad2c3aa46442459fd134e2f61475ae2b8091a37b8a8f7c0a67
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 214/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[100]: ef678d72b7080bd14b82ac1d826f3ae8d933d45d9ebce79af8df78ea069e885897ad4f86b4e9589600bb649423ba840ffd73c908a0aae6b72c5da91f820fb18ff0cc98515301f250f3ddd72553c71e0af8f271e4db06f3aefad3fb1db9ef37ccc20d791491a61ce4cafc64b1f78f1b79
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 216/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[101]: 5e24069c71331f2f5afa7c3b81c88676eb91acccc8e3b5fbab6381542896e1443d778dad8a574348f9b1afea870f61387ea49bd29a84897efd24650e8d7f1a67f834d39d1c99c5aaa5bedc120685ca1bfedb2145e08767d95e1ab7f66feecc757a0b3f605c808eeada0d7510e879f37c
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 218/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[102]: eebe8765837d7f5fd71f1ba39f3cd4137958d56e22a1b1f54c1e70c00179772004c8d2a0d1ae311733a89383431fa8b0d649c9e15edb318065630bb10fe6df672c204fa73bfe583fe4c08c0f87646928e1f8a779f1958a8488e3fd013362f9aa6f7ebb4520998afa4a745b7b0a84766b
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 220/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[103]: eedd65e7b9d018201c03f9dbe36a464d6ca3336ac8f1569a6ec4386929f40c044afdff5eff50f14cb413ccfade308c15758dd8842046ee06cedb24e650f2edbba811609126f67b48d5f832c3ae20b232ec9f9079e53bbf4d9ae9005b7ff4bae5bdc556de95f6fc28e7201e2288d71eab
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 222/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[104]: a737152b199c55160fc8f1497bf52221e9b0caacedf1f6445d6e7fc0bd5e0338366c0bd56df6f825981991fceca3c0a6f1b399a6d717c4e99e7467874319d012edcbaa1957760b55f0a4afbc031035d736fd993518012643df7d0574ed0008ef956e17cc474a4853385928342cf6de32
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 224/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[105]: d349f735287b2f008904d30dccdc9e7a77901b5f2f27b22bf201d8a84fd16044ee808ce2e278f8b368d8fdc708e3314cec5f90339940abadb9461fae2ec9ae0c87cbc66ab936e2bc361f7ae8fbba83b47c9c23aede7beb8b13a2d84c75ef63038bc5622376beb8ace52d1d382f85b4fb
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 226/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[106]: d795866e06e857c02777adbb62b362eabdce159221d462296392bef59a63bf77dce66012207beaca4ebd5ae8e5aabf4b959125a3c671e1cc4b72cf14daa1344889491da9a7e3ce3b9d1d11e2d18c3bcf48bf75e4cfe77517276d2fe7214e9416fa7a4aee58667c11a89adfb5a31332cc
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 228/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[107]: 69d9b181d573f140edd06de3c199885ace8f843c51c9b5cad198bd50fa49a165b966bd3dca8222df19b0a150cd687ea9f54865a1d3d773184d07f4c247677872d0a6dac5eea5be24792d5be7fc51d11731335629216ee043905264daa653257e4c1ea7ca5da676c86b89c3e788d3ce7f
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 230/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[108]: 26a82b363671788c127b06eb8500a33cea7205bd411345c795797cea8bea98edbaf51dc0890e111bbc076b60764b31e0074a2d0556f9b47d5c2cb7412ec3701d0c22a86e7295de246cabaf2dad123bed1bf1189bae5f2c47f4a7899205d866b39ffd9eca83984ce74a9f832477ab4cde
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 232/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[109]: f816da459cc4785e4e369e2c2ec10677d06bc0755a1ca580a0af2d4b0b27e4653305757f9907e1850a2ea4dc11ceb90e6d94c82d69cf69cf7bcea0a182624b2e6a9f927e35453e9b9349cfbc656b3b9b2f879fe78fc50db92e78d1153c47a91dac5f71ac77071de5868e42ddccb390be
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 234/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[110]: 51d030f32f5bb5d01be885b1ae68e53f700fdfb289ab878267fab499a855ca07a9ee6351f67997e91b2fb8d289e26deb2e5e35e43c465b90a262c2f777918cf9eebcd2cde2df0bc085c6ac7e40caaa8bc450ecec3d230e662251129c6470a70e575c94fc69aea8df7a53eb81c67c8542
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 236/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[111]: 8804e26fc12c2968987a29ee87099def6710efd7fa4249d041299279fab2344d74d54b95b7e2be82859ce81e690280f5ddb36bfd747f71e13eaec731ad50de36d46f0e26486d421c7439fdafe64b69a04c9a07fea51bed46de58a2495806e0cf51ba35838b71edf08d22d930c27f3aff
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 238/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[112]: 6a76c1514b6628a8a84104e257872dee5cbc5c4c171cf6f51b32b156988a411ccc06d0fbf589b5a0265c9345473109b1d5f0be4f865dd1003b2937f23a42761819aefc9d0590425fd7755f16d6c1f6a3b9aeb2a926f5a14f4c64d512ad83684f3da8d9141599c44ede66df0427e86ae7
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 240/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[113]: 72966df4d490a65389553925feebe9232830bf6ace8a3023fa8e10cdd026ba755bb1a2bfd0480805b8452904d1be74cec6c0fc191460c6dfc73e12cecda4d628aed9d9043498ef9ad7b0ab290c8744e940f4415591dd7942193a0c979f98b01eb028b5a74fefc128ae071a0b543b18d1
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 242/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[114]: 16e4290051c693ebdd62a8d23128861539e4d2cc23409f682107ced3e5861575e32a8755765cf2692079d80915b30b93e8720f495a40d88f23e4353840cee48cfb86152cbda122c050dd328eebfc0e47229f1e8ee905e4b6d90719ea96514fa24c18ddaa0a8c07cc0f7807865d2e611d
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 244/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[115]: 1f9395c621ccb53fc00ad72a629a4e12ffc18972ea4f82adebc7376aa7480ae1279da080ae120cbcbcb7f41dd182e9c4e1d3ac1d48af0d8f13161bf22d328a7fcceeba8e37b48ef983db1b0014ff37e6ea1138c684c0db7816672d1fcb373940f9a005d9ef7873787b8b48279085fad1
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 246/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[116]: acca4dbcc7ddff8038bcbf04142bbc5a971124a3391a9518b3a4893741b6a2a5ad875bacfea549877fbae309676f364b036404779dc2f2c6b3f7ac9f8cc4b93290b9813b7d3984e4be27a60045529b9092a4b91f0c6d7d8732b88ce49a74512b034b1314125a1b8a8bd2bb7f4b4721ba
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 248/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[117]: cdc9a5aa3a3b7d6a80055fa4ae375fe244f0202353be95599527958cd46c6a53e5a9ea0a8db105e794f11c8a36aec81dc452eba2cc177ca62be55d8c706f7181c3da1522cda9eb866d3f46da6aaa4dda2c006e84b868d2127359f6c4ae235ed93a7dcdcfe96c7891c2939c2315e3f19a
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 250/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[118]: 4e0cac567e1afddc0877ec43128a380341d4ba59dbd29766261bef1707d7627d21785e27f4473cda64eed71477bcc14e91877675f5469f5d1e28e8006429a43ba18c7d59e57c99dbbd4da55d0005dbaacdb418b8bba45ee1fad6973f747fb25f1db1742a2fbf62725518ea61e3a13e0f
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 252/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[119]: 41607a32f7b76c23a582d16d50b89d2d470af0669d7df1686461a9e6c70fba563ff03a6af5894ad48e292f64cec7a628180f959dddb0a52b9945e393fe4924a8d171201f226b0d6795e95cfbd47b886e29011743d7018841a0a41e5c25b2443b4576fc4935ebec0e3a1ff5168667927b
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 254/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[120]: 3e1ad1911ae5266a0b536a01d96014f89ed55b230913fe64141ea4892c8a7d9694d5268924a2554b3606d3bb27a8233414a99b54b1151c7a6775f3b4654f9ad0535e9847a188f2ae35d3f97ca96802fd280b099f3d0158d242986cb4ba880e4b7f7b11f3c10c034b968bc96f0eb8500a
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 256/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[121]: 22c6984cc50d9f41c9070e868cb15db0444f863efb4e954050c4d0bdb58a51b291b5eef7b1e7bb7f78080c7ca665018b13888f397cfaae30b5f5850caae038d412f4aa97f1a838e30ab562e6e692df6dcc4e4f289a09cc37554567818a9134a56aa87590031295383455ce18657e26b3
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 258/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[122]: 6aeb9e31aa9537ed365cdbe354f8bcabd03399b7cefc5173814c04460c62d92ed13f97ac33288c5dd1080260da30989ef2b4f19b51618f603187004e78de779920623c09600e13c5ef0f5b5aea27adaf4c241055ad3ad229020ecfe2c9b8646afe421019a04c11793b8f597aa43d9d9b
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 260/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[123]: 03cf3984ca93c63f1d4183da41a9d4e1a94c4138a753d94831c3bab571e0d72ed3f6bc733736f4a2bb045f18278e8b46ab50e81e1b7613133dbeecedbdd244bf4591d287766005717697fda6e74e7d6aab744bb9e648b478abbe7dccdaeec2d4aaf890729fc8ec4cc7a8ded98a894e56
+    INCORRECT
+nonfault-run
+offset: 358984420 ; execution 262/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[124]: b6c4df984d190d9c8672232f062335a749fb45f2fffe534af318e0dcda076af3ad421151e56b3baa90a71746cd8c13d350d65e06e4d121a0fc8d7997f8b7d05e33fdf19c2b69b999375e9bc45204cf33a515d09bbe54c08a2558f6a8bf671b9bfb7ff3555be72004921e2ec607e95887
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 264/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[125]: e89e9883c8ada0cb8b5fbb836d1f0714ab69f897497046723bf0cd528ca5a1bf9709a49d37ed1cd6e42e1c3e9d8c5da65417568fa8195722405c6620dc2c071257375ff062ffac8ee40cba1343380ae66eca9d47d65f3858310b0207d9d585a7085cb674b441393f1698872c740afab9
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 266/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[126]: c58a602549b32fce2c3995bc81cd2aee593b20715bd1e2aa83c1496a0ada8c9b68481891003538095e33acdf5182795d245525ba60314dc9547b898b4878a2ba748446b8564893e8c8e2bb98d2f950ca5d77e4be5ea3d5e63c69fda48fe34a72dba1c3ae3d9a4a36b5ae2c182aa76917
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 268/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[127]: badc0648a4014f257b2f2f953d367158c661cfa7c8d87e9c870517ab5840cb8f5c368da38eb29d04c8323a09e57ea6032cf0247217867062eb3afe03fafd59766f345980ff8993734aeb2d26021aafb506f696195ed2517f9ea2fb2e0c3f670ef263d4f21c6c4299aaffa5f1547681a2
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 270/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[128]: 59f5ce61fb5594bb3827a8c022f8983ace4250ffeb6c6652cf4a6090aabec276927514622b6038580c77884d9106c979ea85286b0c7bc95dba5e1c86b1fb4e1281492548d37205ff9004572036f76e354a4588dde4fd46b8d1f801a98b69db4ee463e10e8c79c190a60833aec17aaa9f
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 272/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[129]: 66fa1a3b692d6f7cf32bf1c8353e64b75d51bb1483f0b9a33adb0bfaa26963ee1604e346ce62a037d3d43db1c96fa46a0a6495d952d8175bcf1decb9712004d6bf0aa6c3b692f0dc6bac4f5a9aefdf49e75738cb54e78c8fcadd208f051eac12b53d366d8c6c8b75c47fdcc77268f0c7
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 274/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[130]: ec5a0de2bfe646343e6114817f45daacf97818cc658720fcc1367c8712e6f963e89862cc955cbbd073ea95b6a92b728b8ed12dd618b732b187bb3ea4ee422d76af3aa30653f799a5f5e1dc3e2850dc33c63b062279b49b56efaa31c4990ab32d182830f8b8005cee290066026832a426
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 276/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[131]: 86298965160d82b0ca76c82e11b3c038b88cc8065fc66494dbb7458cdf3576e88dafeac971b8a9e040cd20a31304cdd7d6f5fcbe862ca021580afe9b562b61e98ca0bf17502c6319a99bc5ae9b0d36c139c2288a65df6d28a35fec8d31fa462f1f5597ee23b04bcccdc8ff2c40045810
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 278/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[132]: 205f9cbe50fe25405b07322299dc0adbcc520c82b5d4fb5d297792b5b62103f11b2001861da11765ac39797c58c436836b4bcfff76eeae9ca2fe1c60e86ab11a0029c9c7523e2816645273a2373d5787058ccead0a41d2bcdeb356cd387038e59521d0253de2c0d2d01e8523eba443a0
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 280/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[133]: c56e2cb4514ce2e1e0dbf6ed9af8d3f8ed71ce5936bb40c7da390ddf639dc00b2f3dbb2e875f9c2b4015f42b96248680091988300c6d3ee4eba92b587bf07e23e5b37f14b67e4986d9a522fc3da123d334a3a7afc8e610cdc6adc9a3730badb97a6fb9c3839ec46192a3de3da1ad3857
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 282/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[134]: d1532d70fd4b39dfa5b9ec5d6de2153a7c837ddbae68a05c9d4580bc256c6076373634220a3ab62b37b5bad5eaf865fca10ac5a03b51c116db5645478b30dbafa830aa9cc56412fc251f36828764c1a73130e11f4219d6457daa7dbef2dad0e9de782e8c652f05a9fda1c377ada7c6f1
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 284/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[135]: 7d97f8d221fc1ad6a318c67ed8a45c6993baeaf3ae6ff4b5f6ee4f1e88441caf24be261cf33850cea345a387c83bb6e30e8a93ed33b4febd3f161ddd60ecfe1815c965bb325e7b073005cf07b97cc5e12fb62a0532b65b7b3a3250c78b93a40b9ef6c6dd109c5bd417c46774ef2a7ea0
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 286/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[136]: 2563e8e9f18337a9eaad560b794c41af1965cf8ff5c7aea95799f78c72db1f9dd504b6eaee5883e907b4ca16c7bdbb1d5a280609012f83f9199f194017295399a2f562654fc885b056cafc7457e9ac9c0d2e7f0a140be61130acc76b9fcc6e715d1e4d3e124c40341a5593c879ad5ba8
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 288/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[137]: 5039cc1d11cec103d0a5cb8ea70a1919c7abe97d89d784de40087ab5e25906993df5d36c0ad9283f355313789a920f14886eebb4ee8506b3c3492140ccbc114b6342506134c60015acf8279aa2ccf047b1f250e2a8862e759582dab93b70a8df7533a2b40f512bc212b8965fa99b2a05
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 290/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[138]: 211eb67f64512bb34c0d3eb1383434d872c31d4453c12d0c5fd6077de1a5aee0c983b8888de947c27d234040a9b08f4ecdc11e5bec1e960a9a0a7514812af1f03fb2ba0d0d891bcec53f94a9e4225baf1bf20418106ad1dc351f444665ab1c71e43d35cedd9cd5d6ad881c0ee5024024
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 292/300: No fault (correct signature)
+fault-run
+OIL CANDIDATE[139]: 124cc615054acbe53df0ab791adfc3f9417a10453defa7348a491f2d5663a4245e1b34234cc4cfb3a7b6aec4c9e5b358671fa4770355e77b90b55c650ae24ef579b39d1c7720db6de12220d3ebbd438d8e9c2ac958ffac0e4d28777060ea1b5cb0a1dd3db314a042c6c9fc930de7bd42
+    CORRECT
+nonfault-run
+offset: 358984420 ; execution 294/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 295/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 296/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 297/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 298/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 299/300: No fault (correct signature)
+fault-run
+offset: 358984420 ; execution 300/300: No fault (correct signature)

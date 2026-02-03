@@ -1,0 +1,9 @@
+[submodule "pqm4"]
+	path = pqm4
+	url = https://github.com/mupq/pqm4.git
+[submodule "pqov"]
+	path = pqov
+	url = https://github.com/pqov/pqov.git
+[submodule "chipshouter_profiler"]
+	path = chipshouter_profiler
+	url = git@gitlab.cs.hs-rm.de:dhahn001/chipshouter-profiler.git

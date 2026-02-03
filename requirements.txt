@@ -1,0 +1,12 @@
+# -------------------------------------------------------------------------- #
+#                            chipshouter-profiler                            #
+# -------------------------------------------------------------------------- #
+tenacity
+timeout_decorator
+chipshouter
+chipwhisperer
+
+# visualize.py
+matplotlib
+numpy
+
